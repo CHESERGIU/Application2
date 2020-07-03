@@ -1,0 +1,2 @@
+C:\Users\sergi\source\repos\Application2\Debug\Application2.exe
+C:\Users\sergi\source\repos\Application2\Debug\Application2.pdb
